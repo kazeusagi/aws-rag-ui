@@ -1,5 +1,5 @@
 {
-  "name": "Bun Devcontainer Template",
+  "name": "AWS RAG UI",
   "dockerComposeFile": "./compose.yml",
   "service": "app",
   "workspaceFolder": "/home/user/app",
